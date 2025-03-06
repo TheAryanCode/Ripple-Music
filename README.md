@@ -124,29 +124,6 @@ Ensure the following are installed on your system:
 
 ---
 
-## 🤝 Contributions
-
-Contributions are welcome! To contribute:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -m "Add new feature"`).
-4. Push to your branch (`git push origin feature-branch`).
-5. Open a pull request.
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-## 🙌 Acknowledgments
-
-Special thanks to the open-source community for providing tools and libraries that made this project possible.
-
----
-
 ## 📞 Contact
 
 For any inquiries, feel free to contact:

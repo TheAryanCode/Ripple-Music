@@ -123,9 +123,3 @@ Ensure the following are installed on your system:
 - **Dark Mode Toggle**
 
 ---
-
-## 📞 Contact
-
-For any inquiries, feel free to contact:
-- **Author**: [V R N S NIKHIL](https://github.com/Nikhil6524)
-- **Email**: bl.en.u4aie22062@bl.students.amrita.edu
